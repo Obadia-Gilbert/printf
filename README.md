@@ -1,2 +1,2 @@
 # printf
-Authorized functions and macros in C
+###Authorized functions and macros in C
