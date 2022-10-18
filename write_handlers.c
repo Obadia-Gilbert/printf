@@ -146,7 +146,6 @@ int write_num(int ind, char buffer[],
  * @width: Width specifier
  * @precision: Precision specifier
  * @size: Size specifier
- *
  * Return: Number of written chars.
  */
 int write_unsgnd(int is_negative, int ind,
